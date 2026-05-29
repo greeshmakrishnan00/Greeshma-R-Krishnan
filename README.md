@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Greeshma R Krishnan</h1>
 <h3 align="center">
-  🎯 Aspiring Data Scientist | B.Sc. Computer Science with Data Science</h3>
+  🎯 Aspiring Data Scientist 
 
 <!-- Typing Animation -->
 <p align="center">
