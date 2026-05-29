@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <a href="https://github.com/vijaydevverse">
+  <a href="https://github.com/greeshmakrishnan00">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=Aspiring+Data+Scientist;Machine+Learning+%7C+AI+Enthusiast;Cloud+Computing+Learner;Turning+Data+into+Insights" alt="Typing SVG" />
   </a>
 </p>
@@ -24,8 +24,7 @@
 
 ### 📫 How to reach me:
 📧 **krishnangreeshmar30@gmail.com**  
-🌐 [**github.com/vijaydevverse**](https://github.com/vijaydevverse)
-
+🌐 https://github.com/greeshmakrishnan00
 ---
 
 ### 🌐 Connect with me
@@ -35,9 +34,6 @@
   </a>
   <a href="https://www.instagram.com/_seal_dragon__shining_/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-  <a href="https://www.facebook.com/vijay.kannan.3551380" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="Facebook" height="40" width="40" />
   </a>
 </p>
 
