@@ -26,8 +26,9 @@
 ---
 
 ### 📫 How to reach me:
-📧 **krishnangreeshmar30@gmail.com**  
-🌐 https://github.com/greeshmakrishnan00
+- 📧Email:**krishnangreeshmar30@gmail.com**  
+- 🌐GitHub:https://github.com/greeshmakrishnan00
+- 🔗LinkedIn: https://www.linkedin.com/in/greeshma-r-krishnan-1706a438a/
 ---
 
 ### 🌐 Connect with me
