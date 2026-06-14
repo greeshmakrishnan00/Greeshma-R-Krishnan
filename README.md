@@ -14,9 +14,11 @@
 
 ### 💼 About Me
 
-- 🌱 Currently learning **AI Development and other programming languages**  
+- 📊 Aspiring **Data Scientist** passionate about leveraging data to drive informed decisions and create impactful solutions.
+-💻 Proficient in **Python, SQL, MongoDB, Power BI, Tableau, Excel, Data Visualization, and Analytics**
+- 🤖Exploring **Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Generative Al** 
 - 💡 Certified in **IBM Data Science, Oracle Cloud, and SQL**  
-- 💻 Skilled in **Python, SQL, Excel, Power BI, and Data Visualization**  
+- 🚀Building real-world projects that transform data into actionable insights and intelligent solutions 
 - 🎯 Passionate about **turning data into actionable insights**  
 - ⚡ Fun fact: I love **music 🎵, gaming 🎮, and exploring new tech!**
 
