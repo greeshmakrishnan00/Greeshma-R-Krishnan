@@ -21,7 +21,7 @@
 - 💡 Certified in **IBM Data Science, Oracle Cloud, and SQL**  
 - 🚀Building real-world projects that transform data into actionable insights and intelligent solutions 
 - 🎯 Passionate about **turning data into actionable insights**  
-- ⚡ Fun fact: I love **music 🎵, gaming 🎮, and exploring new tech!**
+- ⚡ Fun fact: I love **music 🎵, gaming 🎮, and exploring new technologies**
 
 ---
 
