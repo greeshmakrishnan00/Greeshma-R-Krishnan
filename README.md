@@ -16,7 +16,7 @@
 
 - 🎓**Bachelor of Computer Applications(BCA)** Graduate
 - 📊 Aspiring **Data Scientist** passionate about leveraging data to drive informed decisions and create impactful solutions.
--💻 Proficient in **Python, SQL, MongoDB, Power BI, Tableau, Excel, Data Visualization, and Analytics**
+- 💻 Proficient in **Python, SQL, MongoDB, Power BI, Tableau, Excel, Data Visualization, and Analytics**
 - 🤖Exploring **Artificial Intelligence, Machine Learning, Deep Learning, NLP, and Generative Al** 
 - 💡 Certified in **IBM Data Science, Oracle Cloud, and SQL**  
 - 🚀Building real-world projects that transform data into actionable insights and intelligent solutions 
